@@ -10,13 +10,11 @@ main.py: Archivo principal que instancia objetos de la clase Pelicula y permite 
 
 # Instrucciones de ejecución
 1. Asegúrate de tener Python instalado. En caso contrario, dirígete al siguiente sitio web y descárgalo: https://www.python.org/downloads/
-   Se recomienda instalar la versión más reciente. ![alt text](image-1.png)
+   Se recomienda instalar la versión más reciente.
 
-2. Descarga los archivos pelicula.py y main.py para evitar posibles errores de ejecución.Descargue los archivos "pelicula.py" y "main.py"    para que no suceda ningun error ![alt text](image-2.png)
+2. Descarga los archivos pelicula.py y main.py para evitar posibles errores de ejecución.Descargue los archivos "pelicula.py" y "main.py" para que no suceda ningun error.
 
-3. Abre el archivo main.py y ejecútalo para ver el funcionamiento del programa ![alt text](image-3.png)
-
-4. La terminal se veria lo siguiente: ![alt text](image.png) 
+3. Abre el archivo main.py y ejecútalo para ver el funcionamiento del programa.
 
 # Archivos utilizados
 - "pelicula.py": Contiene la clase "Pelicula" con sus métodos.
